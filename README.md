@@ -1,8 +1,9 @@
 # Redstone Torch
 ![RedstoneTorch](https://d1u5p3l4wpay3k.cloudfront.net/minecraft_gamepedia/d/da/Redstone_Torch.png)  
-This ediction of Redstone Torch is published for 2018 Google Science Fair as a snapshot for submission.
+This edition of Redstone Torch is published for 2018 Google Science Fair as a snapshot for submission.  
+The project can be found here: https://www.googlesciencefair.com/projects/2018/f8a2584ecc30ea734d38042a861db599f14dd9a8fb0618b1bb10c480e7dc13b8
 
-## Models
+## Models Change Log
 ```text
 python train.py --projecttag base --versiontag base1 --resume False
 python .local/lib/python2.7/site-packages/tensorboard/main.py --logdir=RedstoneTorch/model/2018-11-02-20-23-22-547213-test/ --port=6006
